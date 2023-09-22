@@ -1,0 +1,9 @@
+{
+    "baseUrl": "/src/",
+    "outDir": "/src/locales",
+    "filename": "index",
+    "exportExcelPath": "/.i18n/result.xlsx",
+    "importExcelPath": "/.i18n/result.xlsx",
+    "languages": ["zh", "en"]
+  }
+  

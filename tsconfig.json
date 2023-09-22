@@ -18,9 +18,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
+    "typeRoots": ["./node_modules/@types/", "./node_modules/dot-i18n/global.d.ts"],
     "jsx": "react-jsx"
   },
-  "include": [
-    "src"
-  ]
 }
